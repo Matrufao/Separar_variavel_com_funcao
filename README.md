@@ -1,0 +1,1 @@
+# Separar_variavel_com_funcao
